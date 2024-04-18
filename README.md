@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-To view the page, navigate to https://spencersurface.github.io/horiseon-refactor in your web browser.
+To view the page, navigate to in your web browser.
 
 Here is a screenshot demonstrating how the page should appear: ![screenshot](assets/images/screenshot.png)
 
